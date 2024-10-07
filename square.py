@@ -72,7 +72,7 @@ E=[[],[]]
 
 # Loop untill error
 frame=0
-while err>0.1:
+while err>0.01:
     
     # Reset error and storage matrix
     err = 0
